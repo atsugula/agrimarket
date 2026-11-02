@@ -1,6 +1,6 @@
 # AgriMarket · prototipo navegable
 
-Archivo de diseño editable en Figma: https://www.figma.com/design/G99JnjmlfCaAeZzFn0niWj
+Archivo de diseño editable en Figma: https://atsugula.github.io/agrimarket/AgriMarket_Diseno_Interactivo.html
 
 Este prototipo académico demuestra la navegación del MVP de AgriMarket: catálogo, búsqueda, filtro por categoría, detalle de producto, solicitud y seguimiento, registro/login de muestra y panel de productor con alta, edición y activación/desactivación de productos.
 
